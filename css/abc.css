@@ -1,0 +1,14 @@
+#a{
+    display: flex;
+   justify-content: center
+}
+
+
+
+.selected{
+    color: red
+}
+#a>a:hover{
+    color: blue;
+    cursor:pointer;
+}
